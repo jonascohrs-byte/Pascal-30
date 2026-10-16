@@ -1,4 +1,4 @@
-const CACHE = 'pascal-30-v1';
+const CACHE = 'pascal-30-v2';
 const ASSETS = [
   './',
   './index.html',
